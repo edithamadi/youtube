@@ -72,3 +72,9 @@ body {
     color: white;
     color: #e2e2e2;
 }
+
+.sidebar {
+    margin-left: 750px; /* Same width as the sidebar + left position in px */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
